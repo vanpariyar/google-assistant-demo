@@ -1,8 +1,14 @@
 import * as functions from 'firebase-functions';
 
-// // Start writing Firebase Functions
-// // https://firebase.google.com/docs/functions/typescript
-//
-// export const helloWorld = functions.https.onRequest((request, response) => {
-//  response.send("Hello from Firebase!");
-// });
+// Web scrapping Deps
+import fetch from 'node-fetch';
+import * as cheerio from "cheerio";
+
+//Google Assistant Deps
+import { dialogflow, SimpleResponse, BasicCard, Button, Image } from 'actions-on-google';
+const app = dialogflow({ debug: true });
+
+//Insert Dialogfolw Stuff Here....
+//Export the Cloud Functions
+
+export const fulfillment = functions.https.onRequest(app);
