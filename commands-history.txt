@@ -1,0 +1,62 @@
+fireship-demo
+ 1923  mkdir fireship-demo
+ 1924  cd fireship-demo/
+ 1925  firebase init
+ 1926  firebase login
+ 1927  firebase init
+ 1928  git status
+ 1929  git push
+ 1930  git remote add origin https://github.com/vanpariyar/google-assistant-demo.git
+ 1931  git push -u origin master
+ 1932  git branch developer
+ 1933  git checkout developer 
+ 1934  git push
+ 1935  git push --set-upstream 
+ 1936  git push --set-upstream  origin developer 
+ 1937  npm install node-fetch cheerio --save
+firebase init
+ 1926  firebase login
+ 1927  firebase init
+ 1928  git status
+ 1929  git push
+ 1930  git remote add origin https://github.com/vanpariyar/google-assistant-demo.git
+ 1931  git push -u origin master
+ 1932  git branch developer
+ 1933  git checkout developer 
+ 1934  git push
+ 1935  git push --set-upstream 
+ 1936  git push --set-upstream  origin developer 
+ 1937  npm install node-fetch cheerio --save
+  code .
+ 1898  cd functions/
+ 1899  npm npm install actions-on-google --save
+ 1900  npm install actions-on-google --save
+ 1901  npm install node-fetch cheerio --save
+ 1902  firebase deploy --only functions
+ 1903  npm install node-fetch
+ 1904  firebase deploy --only functions
+ 1905  npm install cheerio
+ 1906  firebase deploy --only functions
+ 1907  npm install node-fetch cheerio --save
+ 1908  firebase deploy --only functions
+ 1909  cd ...
+ 1910  cd ..
+ 1911  npm install node-fetch cheerio --save
+ 1912  cd functions/
+ 1913  npm install node-fetch cheerio --save
+ 1914  firebase deploy --only functions
+ 1915  firebase deploy
+ 1916  npm install firebase-tools -g
+ 1917  sudo npm install firebase-tools -g
+ 1918  npm install -g npm
+ 1919  sudo npm install -g npm
+ 1920  cd Creole/
+ 1921  ls
+ 1922  fireship-demo
+ 1923  mkdir fireship-demo
+ 1924  cd fireship-demo/
+ 1925  firebase init
+ 1926  firebase login
+ 1927  firebase init
+ 1928  git status
+ 1929  git push
