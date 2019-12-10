@@ -23,3 +23,8 @@ first of all, we need to create the account on the [Action on the Google](https:
 - So now What :thinking:	
 - Yes, You are Thinking right :+1:
 - We need the action to call that hey Buddy, open up my content. 
+7. Select add the action
+![Overview (1)](https://user-images.githubusercontent.com/26689210/70533500-3b6cbd00-1b7f-11ea-9ac9-04604a29d434.png)
+8. Click on add the action
+![Develop (1)](https://user-images.githubusercontent.com/26689210/70533593-6e16b580-1b7f-11ea-8615-64c5f55b4d92.png)
+
