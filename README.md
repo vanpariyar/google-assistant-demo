@@ -6,6 +6,8 @@ This is the Google Assistant Demo which i have learned from this tutorial :- htt
 ### So, Let's get started ---
 first of all, we need to create the account on the [Action on the Google](https://console.actions.google.com) as well as [Dialogflow](https://dialogflow.com/).
 
+### if you don't see this image Properly, just click on it Thanks.
+
 ### After creating account,
 1. Go to console of action on Google paltform and Create a new Project Done, also accept the terms:thumbsup:.
 ![Actions on Google](https://user-images.githubusercontent.com/26689210/70531028-1e81bb00-1b7a-11ea-870c-6c75a928f8eb.png)
@@ -42,3 +44,9 @@ first of all, we need to create the account on the [Action on the Google](https:
 15. Add user responses 
 ![Dialogflow (3)](https://user-images.githubusercontent.com/26689210/70535161-8936f480-1b82-11ea-887c-d87a53335d0e.png)
 16. 
+![Dialogflow (6)](https://user-images.githubusercontent.com/26689210/70536024-0d3dac00-1b84-11ea-8d24-83a5641be940.png)
+17. 
+![Dialogflow (7)](https://user-images.githubusercontent.com/26689210/70536337-82a97c80-1b84-11ea-92e2-f06291e93dd2.png)
+18.
+![Dialogflow (8)](https://user-images.githubusercontent.com/26689210/70536341-83421300-1b84-11ea-9f06-986042796e32.png)
+
