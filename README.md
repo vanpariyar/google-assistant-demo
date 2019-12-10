@@ -33,7 +33,7 @@ first of all, we need to create the account on the [Action on the Google](https:
 ![Dialogflow](https://user-images.githubusercontent.com/26689210/70534420-0a8d8780-1b81-11ea-8ef6-ed9b43a025e4.png)
 ![Dialogflow (1)](https://user-images.githubusercontent.com/26689210/70535151-86d49a80-1b82-11ea-907e-cf6c8478cad9.png)
 ![Dialogflow (2)](https://user-images.githubusercontent.com/26689210/70535155-8805c780-1b82-11ea-9b20-8633d243be96.png)
-![Dialogflow (3)](https://user-images.githubusercontent.com/26689210/70535161-8936f480-1b82-11ea-887c-d87a53335d0e.png)
 ![Dialogflow (4)](https://user-images.githubusercontent.com/26689210/70535166-8a682180-1b82-11ea-83dd-895310d7c997.png)
 ![Dialogflow (5)](https://user-images.githubusercontent.com/26689210/70535172-8b994e80-1b82-11ea-8776-775d9f27bacb.png)
+![Dialogflow (3)](https://user-images.githubusercontent.com/26689210/70535161-8936f480-1b82-11ea-887c-d87a53335d0e.png)
 
